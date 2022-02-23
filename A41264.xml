@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fidelity of a loyal subject, of the kingdom of England: or, An honest act of fidelity to King James, King William, and the whole kingdom.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41264</idno>
+            <idno type="STC">Wing F848</idno>
+            <idno type="STC">ESTC R213732</idno>
+            <idno type="EEBO-CITATION">99826039</idno>
+            <idno type="PROQUEST">99826039</idno>
+            <idno type="VID">30431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1759:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fidelity of a loyal subject, of the kingdom of England: or, An honest act of fidelity to King James, King William, and the whole kingdom.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated on p.2: 15 Jan. 97/8.</note>
+                  <note>Year given according to Lady Day dating.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term>James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  1689-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30431:1" rendition="simple:additions"/>
+            <head>
+               <hi>The</hi> Fidelity <hi>of a</hi> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>al <hi>Subject, of the Kingdom of</hi> England: <hi>OR,</hi> An honeſt Act of Fidelity to King <hi>James,</hi> King <hi>William,</hi> and the whole Kingdom.</head>
+            <p>THE Oath of <hi>Fidelity,</hi> which is ſworn by the Subjects of this Kingdom <hi>to the King,</hi> is ſworn to him not as he is a Natural Perſon (and no more) but as a Political perſon and Principal Member, or Head of a Great Body Politick, the Kingdom; and comprehends Fidelity <hi>to the Whole Body,</hi> and to all the conſtituent Parts of it, to the Common Intereſt of the <hi>Lords,</hi> and to the Common Intereſt of the <hi>Commons:</hi> So that who ever ſets up <hi>for a Se<g ref="char:EOLhyphen"/>parate Intereſt</hi> of any One, to the Prejudice of <hi>any</hi> of the other, is no Faithful Subject of this Kingdom, but a Traytor, and violates his Allegeance to the whole: Nay, tho' it be in Appearance or Pretence for the King, it doth in effect but betray his true Intereſt, ſo that he may juſtly be pu<g ref="char:EOLhyphen"/>niſhed as a <hi>Traytor</hi> for it.</p>
+            <p>One, and a conſiderable part of true Fidelity, is to aſſiſt, as much as may be, to the <hi>Diſcovery</hi> of all ſuch things, as are of great Concern, either to the whole Body, or to any of the Great Parts of it, to be fully and plainly Underſtood. And therefore having with ſome Pains and Study made a plain Diſcovery, in my apprehenſion, that <hi>the Whole</hi> is in a very evil and Dangerous Caſe in reſpect of Religion; and that the <hi>State</hi> is like<g ref="char:EOLhyphen"/>wiſe in a very Bad Caſe in ſome things, and in a very Doubtful Caſe in others of greateſt Concern to the Whole; and Conſidering this Obligati<g ref="char:EOLhyphen"/>on aforeſaid, I have thought it my Duty, in Diſcharge of my Fidelity, to impart my <hi>Diſcoveries</hi> in the moſt proper manner, and to the moſt pro<g ref="char:EOLhyphen"/>per Perſons, I could: That is, What concerns matters of <hi>Religion</hi> to the Aſſembly of the Clergy; and what concerns matters of <hi>State,</hi> to ſuch as are in Authority in the State; as Privy Counſellors, and Members of Par<g ref="char:EOLhyphen"/>liament. And I have begun to do what I could, as occaſion ſerv'd in both.</p>
+            <p>Upon a Review of the Reformation I obſerved that <hi>King James</hi> had been very hardly uſed, in my apprehenſion: and thereupon writ a Letter to an Honorable Perſon of the Privy Council, as followeth,</p>
+            <pb n="2" facs="tcp:30431:2"/>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>HAving lately had ſpecial Occaſion to review the Proceedings of the <hi>Reformation</hi> here in <hi>England,</hi> and conſider that matter more particular<g ref="char:EOLhyphen"/>ly than heretofore I had done, I did obſerve not only a great deal of indirect, Illegal, Arbitrary and unjuſt Dealings, and ſo much <hi>Corruptions</hi> brought in inſtead of what was pretended to be Reformed, as made that which was a good Cauſe at firſt (For there was great need of a Reformation;) an ill one by ill Management; but moreover that <hi>the Principles of the Re<g ref="char:EOLhyphen"/>formation,</hi> upon which it was acted (though falſe in themſelves, yet being made Law) do plainly juſtify <hi>King James,</hi> as to a conſiderable part of the matters alledged againſt him; And the reſt being neither Proved, nor ſo much as brought to a fair Examination; and his <hi>Abdication</hi> being not Voluntary, but only <hi>Fuga Metus cauſa,</hi> I, who have hitherto aſſerted King <hi>Williams</hi> Right upon <hi>the Principles of the True Engliſh Government,</hi> not minding the <hi>Innovation</hi> made at the pretended Reformation, am now quite at a loſs what to think, and what to do: Only, if the things alledged be true, though there be no Proof, God knows it, and I can be content to ſit ſtill under his Providence. But if they be not true, it will be in vain to preſume upon <hi>the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>e Peace:</hi> For there remains an <hi>Apparent Cauſe for a Civil War:</hi> And the Righteous God, who Reſtored King <hi>Charles</hi> the 2<hi>d.</hi> can as eaſily Reſtore King <hi>James</hi> the Second. And therefore I conceive it not only an Act of <hi>Juſtice</hi> to King <hi>James,</hi> but of <hi>Fidelity to King William,</hi> that he be imminded to conſider in time What is fit to be done in this Caſe, as well as of <hi>Providence</hi> for Preſervation of the Peace of the Nation, leaſt ſome Unexpected Occurence ſhould ſurpriſe him with a ſudden <hi>Change of the Minds of the People.</hi> I would not have him be deceived by Truſting to his <hi>Poſſeſſion,</hi> or his <hi>Forces,</hi> or the <hi>Prejudice of the People againſt Popery,</hi> but take Care that <hi>Right</hi> be done, and that the <hi>Peace</hi> of the Kingdom be preſerv'd, at leaſt that there be nothing wanting in him to either. This I thought my Duty to acquaint his Majeſty, or ſome of his Council with, and none more fit than your Lordſhip, and my Lord Arch-Biſhop, to whom I have written more largly concerning other matters of the Re<g ref="char:EOLhyphen"/>formation, and ſomething of this in Concluſion. And now I think it is time for me to take leave of Church and State, and to retire.</p>
+                  <closer>
+                     <dateline>
+                        <date>15 <hi>Jan.</hi> 97/8.</date>
+                     </dateline>
+                     <signed>Your Lordſhips humble Servant.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="3" facs="tcp:30431:2"/>
+            <p>I had before, as is ſaid in the Letter, written to the Arch-Biſhop to the like purpoſe, in the Concluſion of a long Letter concerning matters of Religion; but it came not to his Hands till long after. But upon 6 <hi>May</hi> laſt in a Bookſellors ſhop I unexpectedly met with the <hi>Brief Hiſtory of the Times,</hi> by which I was Convinced, That the pretended <hi>Popiſh Plot</hi> was nothing but a very Wicked and abominable Contrivance of Dr. <hi>Tounge</hi> and <hi>Titus Oates:</hi> And by that, and farther Inquiry into the whole matter, that Sir <hi>Edmund<g ref="char:EOLhyphen"/>bury Godfrey</hi> did undoubtedly fall and Cool in the Place and Poſture he was found in; and was not Strangled by any other Hands, as with much ado in more than 2 days time was found by the Jury perſwaded by the Coroner and two Chirurgions, procured by his Brothers, who deſired to Save his Eſtate. And therefore that the Nation is concerned to be Clear<g ref="char:EOLhyphen"/>ed of the Guilt of much <hi>Perjury and Innocent Blood.</hi> Afterwards as unex<g ref="char:EOLhyphen"/>pectedly came to my Hands the <hi>Hiſtory of that Plot,</hi> for which the E. of <hi>Eſſex</hi> was committed, and the Lord <hi>Ruſſel</hi> ſuffered, by which I was like<g ref="char:EOLhyphen"/>wiſe convinced of the Reality of that Plot, but whether, or how far thoſe Noble perſons in particular were concern'd in it, is not Neceſſary to be re-examined, or the Earls Death farther inquir'd into. And about the ſame time meeting with ſome of Mr. <hi>Lobbs</hi> acquaintance, I underſtood by them ſomething of what he had Informed them concerning ſome <hi>Caballs of the Engliſh in Holland,</hi> and what part was acted here at the Court in <hi>England:</hi> And tho' I will not ſay I was convinced by Reports, which I had only at the ſecond hand, yet that there was a very <hi>Notable Part acted</hi> here in the Court of <hi>King James,</hi> is ſo apparent, as makes me much Suſpect, That it was not <hi>Popiſh Coun<g ref="char:EOLhyphen"/>cels,</hi> but moſt Abominable <hi>Proteſtant Treachery,</hi> by which he was induced to thoſe things, which were deſign'd to Inſnare him; and that the <hi>Suc<g ref="char:EOLhyphen"/>ceſs of that Wickedneſs</hi> has been a very <hi>Great Temptation</hi> to divers privy to it, to their Exceſſes even to Infidelity and Apoſtacy, and all manner of Impiety and Wickedneſs, which have appeared more monſtrous and Im<g ref="char:EOLhyphen"/>pudent in this Reign than ever before.</p>
+            <p>And this Suſpicion is confirmed by this, that beſides thoſe <hi>Overt Acts,</hi> into which he was thus Trapan'd, if it was ſo, there is not any thing charged againſt him, which hath been made Good, or ſo much as brought to <hi>Publick Examination.</hi> Even that which in the Declaration is alleadged for One of the Principal <hi>Motives of the Expedition,</hi> and was <hi>referred to In<g ref="char:EOLhyphen"/>quiry by a Parliament,</hi> and was notoriouſly a <hi>Principal Means to move the Hearts of the People</hi> ſo unanimouſly in the Caſe, hath not all this while been brought to <hi>Examination,</hi> tho' <hi>King James</hi> himſelf, as 'tis ſaid, in a <hi>a Letter to the Convention</hi> did conjure the Lords and Gentlemen then met to make a <hi>thorough Examination</hi> of it; I mean the Birth of the <hi>Prince of Wales,</hi> as we muſt take him to be, after ſo much Evidence upon Record, and nothing proved to the contrary; but ſuch bold Offers of Proof by futer rejected.</p>
+            <pb n="4" facs="tcp:30431:3"/>
+            <p>Nay, if things be, what there is ſuch Cauſe to ſuſpect they are, take it with all its Circumſtances, Antecedent, Concomitant, and Conſequent, and particularly amongſt others, the Death of <hi>King Charles</hi> I. the deſperate <hi>Plot againſt both his Sons,</hi> the Profane <hi>Flattery</hi> of King <hi>William</hi> at the firſt, and the <hi>Diminution of his Majeſty</hi> by Indignities offered him in the laſt Par<g ref="char:EOLhyphen"/>liament, deſign'd, and introduced with the <hi>Old falſe Pretence of the Groth of Popery,</hi> probably not more againſt his Perſon, than againſt the <hi>True Engliſh Government</hi> it ſelf, it is what may juſtly be feared will render the Engliſh and their Proteſtant Religion, very odious in the apprehenſion of all other Nations, upon a <hi>Moral Conſideration:</hi> but if it be conſidered according to the Principles of true Religion and Conſcience, it is ſo great a Sin againſt the Omniſcience, as well as Juſtice, of Almighty God that there is little Hope of Salvation for any, who are knowingly concerned in it, without <hi>Giving Glory to God</hi> by <hi>Publick Confeſſion,</hi> and their utmoſt <hi>Lawful En<g ref="char:EOLhyphen"/>deavour</hi> for Compleat <hi>Reſtitution,</hi> though with Hazard of their Lives; or for the <hi>Nation</hi> to eſcape ſome terrible Judgment of <hi>Divine Vengeance</hi> anſwera<g ref="char:EOLhyphen"/>ble to ſo Great Wickedneſs, unleſs due Care be taken to expiate it in time.</p>
+            <p>Beſides, if there was nothing in this, there is at preſent a very <hi>Conſider<g ref="char:EOLhyphen"/>able Opportunity</hi> to make both this Nation and our Neighbours Happy; the Neglect of which if it ſhould be neglected, I can hardly think would eſcape without Conſiderable Evil Conſequences. There are <hi>Two pernicious Factions,</hi> by which Multitudes of People are carried in different Streams, the <hi>Papal</hi> and the <hi>Proteſtant,</hi> between which <hi>True Chriſtianity</hi> is Crucified as Chriſt himſelf was between the Thieves. They are like <hi>two Maſtif Dogs</hi> worrying one the other, and neither can get the Maſtery becauſe both alike are faulty: But would either amend their own Cauſe, the other would not be able to ſtand up againſt it. Here I am aſured are many who ſee many <hi>Faults,</hi> which they wiſh were amended, and would ſee more, if ſome Temporal Reſpects and a Servile Fear of the Civil Power did not becloud them: And in <hi>France</hi> I have been informed by Intelligent Travellers, are divers Worthy Perſons among their <hi>Clergy</hi> who have like Apprehenſions of Faults amongſt them: So that there ſeems a fair Opportunity and Advantage for the adjuſting of <hi>Matters in Religion,</hi> which have no ſmall influence upon our Civil Concerns, if proper Perſons be inploy'd on both ſides, and much for the Honor of that ſide, which be<g ref="char:EOLhyphen"/>gins. And for Setling <hi>Matters of State</hi> the Opportunity is ſo manifeſt, as needs not Words to declare it. Other matters I have to declare, but ſuch as may be Communicated to all in due Seaſon; but this, though in Print, is only for the Conſideration of proper Perſons, ſuch as men<g ref="char:EOLhyphen"/>tion'd before.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
